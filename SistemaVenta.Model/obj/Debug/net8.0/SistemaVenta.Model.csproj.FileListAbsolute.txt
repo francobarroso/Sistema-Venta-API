@@ -1,0 +1,14 @@
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.deps.json
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.dll
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\refint\SistemaVenta.Model.dll
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.pdb
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.Model\obj\Debug\net8.0\ref\SistemaVenta.Model.dll

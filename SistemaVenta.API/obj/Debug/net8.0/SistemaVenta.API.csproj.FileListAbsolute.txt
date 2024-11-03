@@ -87,3 +87,4 @@ C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.API\bin\Debug\net8.
 C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Model.pdb
 C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Utility.pdb
 C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.API\obj\Debug\net8.0\SistemaVenta.API.sourcelink.json

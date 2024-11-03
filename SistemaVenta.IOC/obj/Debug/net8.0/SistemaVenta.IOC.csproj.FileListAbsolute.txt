@@ -21,3 +21,4 @@ C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.IOC\bin\Debug\net8.
 C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.Model.pdb
 C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
 C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.IOC\obj\Debug\net8.0\SistemaV.CF7CC950.Up2Date
+C:\Users\MegaTecnologia\Desktop\SistemaVentaAPI\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.sourcelink.json

@@ -1,1 +1,6 @@
-.vs/*
+# Archivos de configuración de Visual Studio
+.vs/
+
+# Carpetas de salida de compilación
+**/bin/
+**/obj/
